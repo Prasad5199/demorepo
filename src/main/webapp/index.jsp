@@ -844,7 +844,7 @@
         
         <div class="categories">
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-mobile-alt"></i></div>
+                <div class="category-icon"><em class="fas fa-mobile-alt"></em></div>
                 <h3>Smartphones</h3>
                 <p>Latest models from top brands</p>
             </div>
