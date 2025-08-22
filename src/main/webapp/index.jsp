@@ -796,7 +796,7 @@
                         <div class="dropdown-content">
                             <a href="#"><em class="fas fa-mobile-alt"></em> Smartphones</a>
                             <a href="#"><i class="fas fa-laptop"></i> Laptops</a>
-                            <a href="#"><i class="fas fa-tshirt"></i> Clothing</a>
+                            <a href="#"><am class="fas fa-tshirt"></am> Clothing</a>
                             <a href="#"><i class="fas fa-headphones"></i> Gadgets</a>
                             <a href="#"><i class="fas fa-shoe-prints"></i> Footwear</a>
                             <a href="#"><i class="fas fa-watch"></i> Accessories</a>
@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Winter Collection 2024</h1>
+            <h1>RAINY Collection 2027</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
@@ -844,7 +844,7 @@
         
         <div class="categories">
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-mobile-alt"></i></div>
+                <div class="category-icon"><em class="fas fa-mobile-alt"></em></div>
                 <h3>Smartphones</h3>
                 <p>Latest models from top brands</p>
             </div>
